@@ -300,5 +300,5 @@ explicabilidade.
 
 ## 👤 Autor
 
-**Wesley Conrado dos Santos**
+**Wesley Santos**
 Estudante de Sistemas de Informação
